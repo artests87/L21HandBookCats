@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">L21HandBookCats</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string-array name="HandBookCats">
+        <item>00. Начало</item>
+        <item>01. Чем кормить кота.</item>
+        <item>02. Как гладить кота.</item>
+        <item>03. Как спит кот.</item>
+        <item>04. Как играть с котом.</item>
+        <item>05. Как разговаривать с котом.</item>
+        <item>06. Интересные факты из жизни котов.</item>
+        <item>07. Как назвать кота.</item>
+    </string-array>
+</resources>
